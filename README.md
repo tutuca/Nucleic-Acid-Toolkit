@@ -10,3 +10,9 @@
     Local Alignment
 
 ### Screenshots
+<p align="center">
+<img src="https://github.com/anfederico/Nucleic-Acid-Toolkit/blob/master/Demo/DEMO1.png"/><br><br>
+<img src="https://github.com/anfederico/Nucleic-Acid-Toolkit/blob/master/Demo/DEMO2.png"/><br><br>
+<img src="https://github.com/anfederico/Nucleic-Acid-Toolkit/blob/master/Demo/DEMO3.png"/> 
+<img src="https://github.com/anfederico/Nucleic-Acid-Toolkit/blob/master/Demo/DEMO4.png"/> 
+</p>
