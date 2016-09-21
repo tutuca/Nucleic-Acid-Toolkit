@@ -2,8 +2,11 @@
 <i>Open source project which provides simple nucleic acid manipulation tools</i>
 
 ### Tools
+    Nucleotide Counter
     Convert DNA to RNA
     Convert RNA to Protein
-    Calculate GC Content
-    Nucleotide Counter
     Find Reverse Complement
+    Global Alignment
+    Local Alignment
+
+### Screenshots
