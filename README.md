@@ -15,6 +15,6 @@
 <img src="https://github.com/anfederico/Nucleic-Acid-Toolkit/blob/master/Demo/DEMO2.png"/><br><br>
 <img src="https://github.com/anfederico/Nucleic-Acid-Toolkit/blob/master/Demo/DEMO3.png"/> 
 <img src="https://github.com/anfederico/Nucleic-Acid-Toolkit/blob/master/Demo/DEMO4.png"/>
-<img src="https://github.com/anfederico/Nucleic-Acid-Toolkit/blob/master/Demo/DEMO8.png width="50%" height="50%"/>
+<img src="https://github.com/anfederico/Nucleic-Acid-Toolkit/blob/master/Demo/DEMO8.png" width="75%" height="75%"/>
 <img src="https://github.com/anfederico/Nucleic-Acid-Toolkit/blob/master/Demo/DEMO9.png"/> 
 </p>
